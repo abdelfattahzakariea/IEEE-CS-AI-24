@@ -11,7 +11,7 @@ def get_numbers(numper):
             push=int(input("enter integr numper :"))
             list.append(push)
     return list
-        
+
 def find_min(numbers):
     return min(numbers)
 
